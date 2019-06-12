@@ -29,4 +29,19 @@ INSERT INTO users (name, age) VALUES ('Jay', 36);
 INSERT INTO users (name, age) VALUES ('Stacy', 39);
 INSERT INTO users (name, age) VALUES ('Dana', 61);
 INSERT INTO users (name, age) VALUES ('Eric', 34);
- 
+
+INSERT INTO pledges (amount, project_id, user_id) VALUES (400000, 4, 5);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (800000, 3, 7);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (750000), 6, 15);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (40000, 1, 13);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (1000000, 7, 2);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (500000, 4, 18);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (80000, 2, 12);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (400000, 9, 11);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (300000, 10, 11);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (400000, 5, 1);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (300000, 1, 16);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (200000, 4, 19);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (400000, 3, 20);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (100000, 7, 3);
+INSERT INTO pledges (amount, project_id, user_id) VALUES (400000, 8, 4);
