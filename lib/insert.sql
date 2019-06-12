@@ -1,9 +1,9 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj1', 'tech', 1000000, '6/3/19', '9/13/19');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj2', 'retail', 1500000, '6/3/19', '8/3/19');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj2', 'music', 1500000, '6/3/19', '8/3/19');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj3', 'finance', 2000000, '6/6/19', '9/6/19');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj4', 'tech', 800000, '6/3/19', '9/13/19');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj5', 'ecommerce', 1000000, '4/3/19', '6/13/19');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj6', 'retail', 1500000, '6/1/19', '8/1/19');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj6', 'music', 1500000, '6/1/19', '8/1/19');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj7', 'ecommerce', 4000000, '6/3/19', '9/13/19');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj8', 'healthcare', 700000, '5/3/19', '8/13/19');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Proj9', 'tech', 1200000, '6/1/19', '9/1/19');
